@@ -1,18 +1,13 @@
-### Hi there 👋, I am Antonio
-#### Development and Design
-
-
-- 😄 I am portuguese and I currently live in Denmark. I enjoy learning languages and frameworks like React and Vue as well as C#.
-- 🌱 I’m currently learning Vue.js
-
-### Experience and Skills: 
-
--💻Vue.js, JavaScript and TypeScript, C#, AWS amplify,Firebase, MongoDB, PHP
--⚛REACT
--📱ReactNative
-
-
-
-### Connect with me: 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antonioHCM/) 
-
+Hi there 👋, I'm Antonio
+Developer & Designer
+🇵🇹 Originally from Portugal, now based in Denmark.
+🎓 Recently completed my Professional Bachelor's in Web Development.
+🚀 Passionate about learning new languages and frameworks like React, Vue, and C#.
+🌱 Currently diving into Angular.
+🔥 Experience & Skills
+💻 Frontend & Backend: Angular, Vue.js, JavaScript, TypeScript, C#, PHP
+☁️ Cloud & Databases: AWS Amplify, Firebase, MongoDB
+⚛ React & React Native
+🛠 Component Library Development: Built a scalable component library for ASG-Digital, enabling seamless front-end component exports across in-house applications using Workflows, Chromatic, and Storybook.
+📫 Let's Connect!
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>
